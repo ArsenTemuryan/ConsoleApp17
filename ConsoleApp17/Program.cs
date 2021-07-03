@@ -20,5 +20,9 @@ namespace ConsoleApp17
             TeacherModel[] swappedteachers = univesity.SwappTeacherToStudents(teachers, students);
             StudentModel[] swappesstudents = univesity.SwappStudentToTeacher(swappedteachers, students);
         }
+
+
+
+
     }
 }
